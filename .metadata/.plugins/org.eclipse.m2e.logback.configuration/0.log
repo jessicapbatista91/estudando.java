@@ -1,0 +1,23 @@
+2023-01-18 21:08:53,369 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 21:51:48,864 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 22:09:10,055 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 22:19:42,946 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 22:20:51,277 [Worker-3: Creating project "estudando.java"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.jessica:estudando.java:0.0.1-SNAPSHOT @ C:\Users\Usuário\eclipse-workspace\Turma112022\estudando.java\pom.xml.
+2023-01-25 22:20:52,358 [Worker-3: Creating project "estudando.java"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /estudando.java/src/main/java
+2023-01-25 22:20:52,361 [Worker-3: Creating project "estudando.java"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /estudando.java/src/main/resources
+2023-01-25 22:20:52,363 [Worker-3: Creating project "estudando.java"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /estudando.java/src/test/java
+2023-01-25 22:20:52,364 [Worker-3: Creating project "estudando.java"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /estudando.java/src/test/resources
+2023-01-25 22:20:56,112 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:20:56,117 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 22:20:56,121 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:20:56,123 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 22:22:06,762 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:22:06,813 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 22:22:06,823 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:22:06,825 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 22:22:07,908 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:22:07,910 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 22:22:07,915 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 22:22:07,919 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-26 10:20:05,106 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-27 10:40:30,967 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
